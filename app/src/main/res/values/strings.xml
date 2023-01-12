@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Your Daily Dose of News</string>
+    
+    <string name="settings_from_date_label">From Date</string>
+    <string name="settings_from_date_key" translatable="false">from_date</string>
+    <string name="setting_from_date_default">2020-08-07</string>
+</resources>
